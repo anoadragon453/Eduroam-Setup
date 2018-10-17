@@ -22,8 +22,8 @@ proto=
 [802-1x]
 altsubject-matches=
 eap=peap;
-identity=PLACE_UCM_USERID_HERE
-password=PLACE_UCM_PASS_HERE
+identity=PLACE_SCHOOL_USERID_HERE
+password=PLACE_SCHOOL_PASS_HERE
 phase2-altsubject-matches=
 phase2-auth=mschapv2
 
